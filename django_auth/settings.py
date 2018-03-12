@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-messaging-app-with-auth-kgmaxwell1990.c9users.io']
+ALLOWED_HOSTS = ['jord-messenger-jordisutts.c9users.io']
 
 
 # Application definition
